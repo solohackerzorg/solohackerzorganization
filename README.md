@@ -1,4 +1,4 @@
-<!-- README -->
+<!-- Github README -->
 <p align="center"><a href="https://github.com/solohackerzorganization">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=solohackerzorganization&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
@@ -9,9 +9,9 @@
 <b><i>💻 I am a Student & a part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Living in DreamLand</i></li>
+<li> >💻 <i>Living in DreamLand</i></li>
 <li> >💻 <i>Coding is Love</i></li>
-<li> 🐍 <i>Learning Python, C++, Sql and JS</i></li>
+<li> >🐍 <i>Learning Python, C++, Sql and JS</i></li>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/solohackerzorganization"><img width=550 src="https://github-profile-trophy.vercel.app/?username=solohackerzorganization&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
