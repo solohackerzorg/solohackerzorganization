@@ -10,7 +10,7 @@
 
 <h2><b><i>Hi There, This is SoloHacker 👋</i></b></h2>
 <b><i>💻 I am a Student & a part time Programmer</i></b>
-
+<img src="https://github.com/solohackerzorganization/solohackerzorganization/blob/main/md7Oqrf.gif " width="300%"> 
 <h3><b><i> About me :</i></b></h3>
 <li> >💻 <i>Living in DreamLand</i></li>
 <li> >💻 <i>Coding is Love</i></li>
