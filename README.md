@@ -4,7 +4,6 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/solohackerzorganization"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohackerzorganization&layout=compact&theme=react&hide_border=true" />
 </a></p>
-<iframe src="https://giphy.com/embed/3oKIPAqQcPrTvM4B8Y" width="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVgifs/loop-glitch-matrix-3oKIPAqQcPrTvM4B8Y">via GIPHY</a></p>
 <h2><b><i>Hi There, This is SoloHacker 👋</i></b></h2>
 <b><i>💻 I am a Student & a part time Programmer</i></b>
 <h3><b><i> About me :</i></b></h3>
