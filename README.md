@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/solohackerzorganization"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohackerzorganization&layout=compact&theme=react&hide_border=true" />
 </a></p>
-<img height="165" src="[https://media2.giphy.com/media/3oKIPAqQcPrTvM4B8Y/giphy.gif?cid=ecf05e47al1sblueydy59jsos6wvq3j6shd1m5jk4owt38kc&rid=giphy.gif&ct=g](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5OTMxMzM5MjljZmZhNmNiNDU1NWRhNWMzMTg1YTdiNTg0YjAzYSZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)" width="300%"> 
+<img height="165" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5OTMxMzM5MjljZmZhNmNiNDU1NWRhNWMzMTg1YTdiNTg0YjAzYSZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300%"> 
 <h2><b><i>Hi There, This is SoloHacker 👋</i></b></h2>
 <b><i>💻 I am a Student & a part time Programmer</i></b>
 <h3><b><i> About me :</i></b></h3>
