@@ -2,7 +2,7 @@
 <p align="center"><a href="https://github.com/solohackerzorganization">
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=solohackerzorganization&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/solohackerzorganization"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohackerzorganization&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/solohackerzorganization"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohackerzorganization&layout=compact&theme=react&hide_border=true " />
 </a></p>
 <h2><b><i>Hi There, This is SoloHacker 👋</i></b></h2>
 <b><i>💻 I am a Student & a part time Programmer</i></b>
