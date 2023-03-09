@@ -18,6 +18,6 @@
 <a href="https://github.com/solohackerzorganization"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=solohackerzorganization&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>Contact Author :</i></b></h3>
-<a href="https://github.com/solohackerzorganization"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/foundersolohackerzorg"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/foundersolohackerzorg"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+<a href="https://github.com/solohackerzorganization"><img align="left" title="Github" alt="Github" width="30px" src="png_pic/github.png" /></a>
+<a href="https://fb.com/foundersolohackerzorg"><img align="left" title="Facebook" alt="Facebook" width="30px" src="png_picpng_pic/facebook.png" /></a>
+<a href="https://m.me/foundersolohackerzorg"><img align="left" title="Messenger" alt="Messenger" width="30px" src="png_picpng_pic/messenger.png" /></a>
